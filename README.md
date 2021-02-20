@@ -1,4 +1,4 @@
-#About JPMorgan Chase Software Engineering Virtual Experience
+# About JPMorgan Chase Software Engineering Virtual Experience
 
 You’re going to assist with some development of an alternative way to visualize and analyze share price data for our traders – this will alert them of potential trading opportunities.
 
@@ -27,4 +27,5 @@ The visualization of charts and data analysis our trader’s see is all built on
 You’ll have to gain an understanding of the user requirements and then build something that meets those requirements.
 
 ## Certificate of completion
+
 [link](https://drive.google.com/file/d/1NqOImfLV42EH3bvIPNaHrKkT-aoh9F2Y/view?usp=sharing)
